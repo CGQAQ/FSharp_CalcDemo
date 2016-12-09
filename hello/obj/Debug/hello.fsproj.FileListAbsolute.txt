@@ -1,0 +1,9 @@
+E:\Work\F#\hello world\hello\bin\Debug\hello.exe.config
+E:\Work\F#\hello world\hello\bin\Debug\hello.XML
+E:\Work\F#\hello world\hello\bin\Debug\hello.exe
+E:\Work\F#\hello world\hello\bin\Debug\hello.pdb
+E:\Work\F#\hello world\hello\bin\Debug\FSharp.Core.dll
+E:\Work\F#\hello world\hello\bin\Debug\FSharp.Core.xml
+E:\Work\F#\hello world\hello\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+E:\Work\F#\hello world\hello\obj\Debug\hello.exe
+E:\Work\F#\hello world\hello\obj\Debug\hello.pdb
